@@ -4,5 +4,7 @@ description: 'This component is designed to crawl GitHub repositories related to
   spreadsheet containing the crawled data.
 
   '
+input-class: GithubAiRepoCrawlerToSpreadsheetIn
 name: GithubAiRepoCrawlerToSpreadsheet
+output-class: GithubAiRepoCrawlerToSpreadsheetOut
 parameters: {}

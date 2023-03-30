@@ -1,0 +1,6 @@
+description: 'Search GitHub repositories using the GitHub API for the given search
+  query. Must provide an API key for authentication.
+
+  '
+name: GitHubRepoSearch
+parameters: {}

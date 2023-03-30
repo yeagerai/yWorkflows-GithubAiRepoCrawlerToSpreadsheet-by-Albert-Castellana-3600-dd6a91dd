@@ -2,5 +2,7 @@ description: 'Search GitHub repositories using the GitHub API for the given sear
   query. Must provide an API key for authentication.
 
   '
+input-class: GitHubRepoSearchInputDict
 name: GitHubRepoSearch
+output-class: GitHubRepoSearchOutputDict
 parameters: {}

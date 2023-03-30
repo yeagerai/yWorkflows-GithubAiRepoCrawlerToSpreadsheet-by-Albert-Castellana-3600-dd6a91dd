@@ -1,0 +1,8 @@
+description: 'This component is designed to crawl GitHub repositories related to Artificial
+  Intelligence and export the data to a Google Spreadsheet. The component takes a
+  search query and Google API credentials as inputs and returns the URL of the created
+  spreadsheet containing the crawled data.
+
+  '
+name: GithubAiRepoCrawlerToSpreadsheet
+parameters: {}
